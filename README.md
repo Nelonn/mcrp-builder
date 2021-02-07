@@ -45,14 +45,13 @@ ___
 }
 ```
 
-`source_folder` - папка c ресурспаками для билда\n
+`source_folder` - папка c ресурспаками для билда  
 `build_folder` - папка с собранным ресурспаком
 #### clear
-`enable` - включить / выключить очиститель от лишних файлов\n
-`folder` - какую папку чистить\n
+`enable` - включить / выключить очиститель от лишних файлов  
+`folder` - какую папку чистить  
 `blacklist` - чёрный список расширений для очистки
 
 ## Автор:
-Михаил Неонов
-[Twitter](https://twitter.com/thenelonn)
-[YouTube](https://www.youtube.com/channel/UCnZDAQizhP4rvDNbqQxG_pA)
+Михаил Неонов  
+[Twitter](https://twitter.com/thenelonn) - [YouTube](https://www.youtube.com/channel/UCnZDAQizhP4rvDNbqQxG_pA)
