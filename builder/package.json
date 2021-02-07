@@ -1,0 +1,19 @@
+{
+  "name": "resourcepack-builder",
+  "version": "0.0.1",
+  "description": "Minecraft resource pack builder",
+  "main": "./src/build.js",
+  "dependencies": {
+    "base64json": "^1.0.3",
+    "extendify": "^1.0.0",
+    "jszip": "^3.5.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "node ./src/build.js",
+    "clear": "node ./src/clear.js"
+  },
+  "author": "Nelonn",
+  "license": "ISC"
+}

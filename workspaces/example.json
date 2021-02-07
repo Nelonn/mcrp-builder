@@ -1,0 +1,17 @@
+{
+  "source_folder": "C:\\Users\\!!YOUR_USERNAME!!\\AppData\\Roaming\\.minecraft\\resourcepacks\\example-resource-pack-dev\\build_files",
+  "build_folder": "C:\\Users\\!!YOUR_USERNAME!!\\AppData\\Roaming\\.minecraft\\resourcepacks\\example-resource-pack-builded",
+  "clear": {
+    "enable": false,
+    "folder": "C:\\Users\\!!YOUR_USERNAME!!\\AppData\\Roaming\\.minecraft\\resourcepacks\\example-resource-pack-dev\\build_files\\first_rp",
+    "black_list": [
+      ".psd",
+      ".txt",
+      ".flp",
+      ".wav",
+      ".mp3",
+      ".zip",
+      ".example.png"
+    ]
+  }
+}
